@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Simbongile Mkhotheli</h1>
-<h3 align="center">Frontend Developer | Node.js Enthusiast | Web Security Advocate</h3>
+<h3 align="center">Full-Stack Developer | React & TypeScript Specialist | Node.js & Express APIs | OWASP-Grade Security</h3>
 
 <p align="center">
   <a href="https://simbongile-mkoteli.vercel.app" target="_blank">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/simbongile-mkhotheli" target="_blank">💼 LinkedIn</a> • 
-  <a href="mailto:simbongile@example.com">📫 Email</a>
+  <a href="mailto:simbongile@gmail.com">📫 Email</a>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-- React.js, Next.js, TypeScript
+- React.js, Next.js, TypeScript, JavaScript
 - HTML5, CSS3, SCSS, TailwindCSS
 - Redux, Zustand, Framer Motion
 - Accessibility (WCAG 2.1), SEO, Image Optimization
