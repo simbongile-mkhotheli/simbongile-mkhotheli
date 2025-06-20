@@ -36,7 +36,6 @@
 - **Languages**: TypeScript, JavaScript, HTML5, CSS3 (SCSS, TailwindCSS)  
 - **State & UI**: Redux, Zustand, React Hook Form, Framer Motion  
 - **Validation**: Zod  
-- **Testing & CI**: Jest, Cypress, GitHub Actions  
 - **Performance**: Code‑splitting, lazy loading, SEO & accessibility (WCAG 2.1)
 
 ### 🔧 Backend
