@@ -49,25 +49,6 @@
 
 ---
 
-## 📌 Pinned Projects
-
-### 🔍 Survey App (2025)  
-Full‑stack **TypeScript** survey application featuring:
-- **React + Vite** frontend with **React Hook Form** & **Zod** for shared client/server validation  
-- **Node.js + Express** backend, **Prisma** ORM on Neon PostgreSQL  
-- Real‑time analytics: total count, age stats via `EXTRACT(YEAR FROM AGE())`, food‑preference percentages, average ratings  
-- Code quality enforced with **ESLint**, **Prettier**, **Husky + lint‑staged**, and **GitHub Actions** CI/CD  
-- **Live Demo**: [survey-app-hazel.vercel.app](https://survey-app-hazel.vercel.app)  
-- **Source**: [github.com/simbongile-mkhotheli/survey-app](https://github.com/simbongile-mkhotheli/survey-app)
-
-### 🛍️ NikeStoreX (2025)  
-A Vite‑powered React e‑commerce store with Tailwind CSS, Redux Toolkit, secure user flows, feature‑based folder structure, and CI/CD integration.
-
-### 🎮 Video Game Discovery App (2023)  
-Next.js + TypeScript SPA consuming the RAWG API, styled with Chakra UI, featuring dynamic routing and responsive grids.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
