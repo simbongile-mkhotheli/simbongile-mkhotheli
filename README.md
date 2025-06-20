@@ -60,6 +60,6 @@
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/simbongile-mkhotheli)  
+- 💼 [LinkedIn](https://linkedin.com/in/mkoteli)  
 - 🌐 [Portfolio](https://simbongile-mkoteli.vercel.app)  
 - ✉️ simibongile@gmail.com  
