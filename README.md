@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://simbongile-mkoteli.vercel.app" target="_blank">🌐 Portfolio</a> • 
   <a href="https://github.com/simbongile-mkhotheli/survey-app" target="_blank">💻 Survey App</a> • 
-  <a href="https://www.linkedin.com/in/simbongile-mkhotheli" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://linkedin.com/in/mkoteli" target="_blank">💼 LinkedIn</a> • 
   <a href="mailto:simbongile@gmail.com">✉️ Email</a>
 </p>
 
