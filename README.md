@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="survey-app-beta-ivory.vercel.app/" target="_blank">
+  <a href="https://survey-app-beta-ivory.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Live Demo" />
   </a>
   <a href="https://github.com/simbongile-mkhotheli/survey-app" target="_blank">
