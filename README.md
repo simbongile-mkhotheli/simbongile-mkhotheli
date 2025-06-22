@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simbongile Mkhotheli</h1>
-<h3 align="center">Full‑Stack Developer | React & TypeScript Specialist | Node.js & Express APIs | OWASP‑Grade Security | CI/CD Enthusiast </h3>
+<h3 align="center">Full‑Stack Developer | React & TypeScript | Node.js & Express APIs |HTML5 & CSS3 | OWASP‑Grade Security | CI/CD Enthusiast </h3>
 
 <p align="center">
   <a href="https://simbongile-mkoteli.vercel.app" target="_blank">🌐 Portfolio</a> • 
