@@ -61,4 +61,4 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/mkoteli)  
 - 🌐 [Portfolio](https://simbongile-mkoteli.vercel.app)  
-- ✉️ simibongile@gmail.com  
+- ✉️ mkotelisimbo@gmail.com  
