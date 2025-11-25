@@ -24,7 +24,7 @@
 - 💻 I build **responsive**, **accessible**, and **secure** web applications with React, TypeScript, Node.js & Express  
 - 🛡️ Passionate about **security best practices** (CSP, OWASP Top 10, JWT, secure headers)  
 - ⚖️ Advocate for **clean code**, **scalable architecture**, and **progressive enhancement**  
-- 📚 Always learning—currently diving into **Algorithms & Data Structures**, **CI/CD**, and **Red Team tooling**
+- 📚 Always learning—currently diving into **CI/CD**, and **Red Team tooling**
 
 ---
 
