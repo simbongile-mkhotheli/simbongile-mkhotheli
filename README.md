@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simbongile Mkhotheli</h1>
-<h3 align="center">Full-Stack Developer | React & TypeScript | Node.js & Express APIs |HTML5 & CSS3 | CI/CD </h3>
+<h3 align="center">Full-Stack Developer | React & TypeScript | Node.js & Express | HTML5 & CSS3 | CI/CD</h3>
 
 <p align="center">
   <a href="https://mkotelisimbo.vercel.app" target="_blank">🌐 Portfolio</a> • 
@@ -21,30 +21,28 @@
 
 ## 🚀 About Me
 
-- 💻 I build **responsive**, **accessible**, and **secure** web applications with React, TypeScript, Node.js & Express  
-- 🛡️ Passionate about **security best practices** (CSP, OWASP Top 10, JWT, secure headers)  
+- 💻 I build **responsive**, **accessible**, and **secure** web applications using React, TypeScript, Node.js & Express  
+- 🛡️ Passionate about **web security best practices** (CSP, OWASP Top 10, JWT, secure headers)  
 - ⚖️ Advocate for **clean code**, **scalable architecture**, and **progressive enhancement**  
-- 📚 Always learning—currently diving into **CI/CD**, and **Red Team tooling**
+- 📚 Always learning—currently exploring **CI/CD pipelines** and **Red Team tooling**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-
-- **Frameworks**: React, Next.js, Vite  
-- **Languages**: TypeScript, JavaScript, HTML5, CSS3 (SCSS, TailwindCSS)  
-- **State & UI**: Redux, Zustand, React Hook Form
-- **Validation**: Zod  
-- **Performance**: Code‑splitting, lazy loading, SEO & accessibility (WCAG 2.1)
+- **Frameworks:** React, Next.js, Vite  
+- **Languages:** TypeScript, JavaScript, HTML5, CSS3 (SCSS, TailwindCSS)  
+- **State & Forms:** Redux, Zustand, React Hook Form  
+- **Validation:** Zod  
+- **Performance:** Code-splitting, lazy loading, SEO, WCAG 2.1 accessibility
 
 ### 🔧 Backend
-
-- **Runtime**: Node.js, Express  
-- **Database**: PostgreSQL (Neon) via Prisma ORM, MongoDB  
-- **Security**: CSP headers, rate limiting, OWASP Top 10  
-- **Auth**: JWT, OAuth2  
-- **APIs**: REST, serverless functions
+- **Runtime & Frameworks:** Node.js, Express  
+- **Databases:** PostgreSQL via Prisma ORM, MongoDB  
+- **Security:** CSP headers, rate limiting, OWASP Top 10  
+- **Authentication:** JWT, OAuth2  
+- **APIs:** REST, serverless functions
 
 ---
 
@@ -57,8 +55,8 @@
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/mkoteli)  
-- 🌐 [Portfolio](https://simbongile-mkoteli.vercel.app)  
-- ✉️ mkotelisimbo@gmail.com  
+- 🌐 [Portfolio](https://mkotelisimbo.vercel.app)  
+- ✉️ mkotelisimbo@gmail.com
