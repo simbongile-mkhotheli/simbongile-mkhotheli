@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | React & TypeScript | Node.js & Express APIs |HTML5 & CSS3 | CI/CD </h3>
 
 <p align="center">
-  <a href="https://simbongile-mkoteli.vercel.app" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://mkotelisimbo.vercel.app" target="_blank">🌐 Portfolio</a> • 
   <a href="https://github.com/simbongile-mkhotheli/survey-app" target="_blank">💻 Survey App</a> • 
   <a href="https://linkedin.com/in/mkoteli" target="_blank">💼 LinkedIn</a> • 
   <a href="mailto:simbongile@gmail.com">✉️ Email</a>
