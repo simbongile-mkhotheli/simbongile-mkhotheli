@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simbongile Mkhotheli</h1>
-<h3 align="center">Full-Stack Developer | React & TypeScript | Node.js & Express | HTML5 & CSS3 | CI/CD</h3>
+<h3 align="center">Full-Stack Developer | React & TypeScript | Node.js & Express | CI/CD & Web Security</h3>
 
 <p align="center">
   <a href="https://mkotelisimbo.vercel.app" target="_blank">🌐 Portfolio</a> • 
   <a href="https://github.com/simbongile-mkhotheli/survey-app" target="_blank">💻 Survey App</a> • 
   <a href="https://linkedin.com/in/mkoteli" target="_blank">💼 LinkedIn</a> • 
-  <a href="mailto:simbongile@gmail.com">✉️ Email</a>
+  <a href="mailto:mkotelisimbo@gmail.com">✉️ Email</a>
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@
 
 ## 🚀 About Me
 
-- 💻 I build **responsive**, **accessible**, and **secure** web applications using React, TypeScript, Node.js & Express  
-- 🛡️ Passionate about **web security best practices** (CSP, OWASP Top 10, JWT, secure headers)  
-- ⚖️ Advocate for **clean code**, **scalable architecture**, and **progressive enhancement**  
-- 📚 Always learning—currently exploring **CI/CD pipelines** and **Red Team tooling**
+- I build **responsive**, **accessible**, and **secure** web applications using React, TypeScript, Node.js, and Express  
+- Strong focus on **web security best practices**: CSP, secure headers, JWT, rate limiting, OWASP Top 10  
+- Advocate for **clean code**, **scalable architecture**, and **progressive enhancement**  
+- Currently advancing my skills in **CI/CD pipelines**, **unit testing**, **SOLID principles**, and **Red Team tooling**
 
 ---
 
@@ -33,16 +33,16 @@
 ### 🌐 Frontend
 - **Frameworks:** React, Next.js, Vite  
 - **Languages:** TypeScript, JavaScript, HTML5, CSS3 (SCSS, TailwindCSS)  
-- **State & Forms:** Redux, Zustand, React Hook Form  
-- **Validation:** Zod  
-- **Performance:** Code-splitting, lazy loading, SEO, WCAG 2.1 accessibility
+- **State Management:** Redux Toolkit, Zustand  
+- **Forms & Validation:** React Hook Form, Zod  
+- **Performance & Accessibility:** Code-splitting, lazy loading, WCAG 2.1, SEO optimization
 
 ### 🔧 Backend
 - **Runtime & Frameworks:** Node.js, Express  
-- **Databases:** PostgreSQL via Prisma ORM, MongoDB  
-- **Security:** CSP headers, rate limiting, OWASP Top 10  
+- **Databases:** PostgreSQL (Prisma ORM), MongoDB  
+- **Security:** CSP headers, rate limiting, input validation, OWASP Top 10  
 - **Authentication:** JWT, OAuth2  
-- **APIs:** REST, serverless functions
+- **APIs:** RESTful APIs, serverless functions
 
 ---
 
@@ -57,6 +57,6 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/mkoteli)  
-- 🌐 [Portfolio](https://mkotelisimbo.vercel.app)  
-- ✉️ mkotelisimbo@gmail.com
+- LinkedIn: https://linkedin.com/in/mkoteli  
+- Portfolio: https://mkotelisimbo.vercel.app  
+- Email: mkotelisimbo@gmail.com
