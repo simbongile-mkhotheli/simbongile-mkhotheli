@@ -32,8 +32,8 @@
 
 ### 🌐 Frontend
 - **Frameworks:** React, Next.js, Vite  
-- **Languages:** TypeScript, JavaScript, HTML5, CSS3 (SCSS, TailwindCSS)  
-- **State Management:** Redux Toolkit, Zustand  
+- **Languages:** TypeScript, JavaScript, HTML5, CSS3  
+- **State Management:** Redux Toolkit, React Context API, useState, useReducer. 
 - **Forms & Validation:** React Hook Form, Zod  
 - **Performance & Accessibility:** Code-splitting, lazy loading, WCAG 2.1, SEO optimization
 
