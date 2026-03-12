@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simbongile Mkhotheli</h1>
-<h3 align="center">Full-Stack Developer | React | TypeScript | Node.js | Express | HTML5 | CSS3 | JavaScript</h3>
+<h3 align="center">React | TypeScript | Node.js | Express | HTML5 | CSS3 | JavaScript</h3>
 
 <p align="center">
   <a href="https://mkotelisimbo.vercel.app" target="_blank">🌐 Portfolio</a> • 
