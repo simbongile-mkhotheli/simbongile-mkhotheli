@@ -1,6 +1,21 @@
-# Hi there 👋, I'm Simbongile Mkhotheli
+<h1 align="center">Hi 👋, I'm Simbongile Mkhotheli</h1>
+<h3 align="center">React | TypeScript | Node.js | Express | HTML5 | CSS3 | JavaScript</h3>
 
-💻 Junior Software Engineer | Frontend-Focused | Full-Stack Capable  
+<p align="center">
+  <a href="https://mkotelisimbo.vercel.app" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://github.com/simbongile-mkhotheli/survey-app" target="_blank">💻 Survey App</a> • 
+  <a href="https://linkedin.com/in/mkoteli" target="_blank">💼 LinkedIn</a> • 
+  <a href="mailto:mkotelisimbo@gmail.com">✉️ Email</a>
+</p>
+
+<p align="center">
+  <a href="https://survey-app-beta-ivory.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/simbongile-mkhotheli/survey-app" target="_blank">
+    <img src="https://img.shields.io/badge/code-GitHub-blue" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
