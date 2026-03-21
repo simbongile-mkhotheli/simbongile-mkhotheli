@@ -21,12 +21,11 @@
 
 ## 🚀 About Me
 - 💻 Junior Software Engineer with a background in IT support and digital design  
-- ⚛️ Focused on frontend development using React, JavaScript/TypeScript, HTML5, and CSS3    
+- ⚛️ Focused on frontend development using React, JavaScript/TypeScript, HTML5, and CSS3  
 - 🧠 Interested in clean, maintainable code and real-world product development  
-- 🚀 Built projects like **AlumniConnect** in fast-paced, deadline-driven environments  
 - 🔄 Currently improving skills in state management, testing, and scalable frontend architecture  
 - 🤝 Learning collaborative workflows (Git, pull requests, code reviews)  
-- 🌍 Based in South Africa and open to junior roles, internships, and graduate programmes  
+- 🌍 Based in South Africa, open to junior roles, internships, and graduate programmes  
 
 ---
 
@@ -43,16 +42,25 @@
 
 ## 📂 Featured Projects
 
+### 🔹 Survey App (Lifestyle Survey)
+**Enterprise-Grade Full-Stack Application** demonstrating React, Node.js, TypeScript, SOLID principles, and comprehensive testing.  
+
+- Full-stack: React + Node.js + Express + PostgreSQL  
+- Responsive, professional UI with a survey builder and analytics dashboard  
+- OWASP-compliant security and production-ready setup  
+- 336 unit tests (frontend + backend) with 95%+ coverage  
+- Live Demo: [Survey App](https://survey-app-beta-ivory.vercel.app)  
+- GitHub Repo: [Repo](https://github.com/simbongile-mkhotheli/survey-app)  
+
 ### 🔹 AlumniConnect
-A web-based alumni engagement platform built as a solo hackathon project.
+A web-based alumni engagement platform built as a solo hackathon project.  
 
-- Full-stack (React + Node.js)
-- Responsive UI and backend integration
-- Delivered under tight deadlines
-- Selected for continuation (GK Hack25)
+- Full-stack: React + Node.js  
+- Responsive UI and backend integration  
+- Delivered under tight deadlines  
+- Selected for continuation (GK Hack25)  
 
-👉 Add your GitHub repo link here  
-👉 Add live demo link here  
+*(Private repo; code available upon request)*  
 
 ---
 
@@ -75,8 +83,10 @@ A web-based alumni engagement platform built as a solo hackathon project.
 ---
 
 ## 🔗 Connect With Me
-- 🌐 Portfolio: https://mkotelisimbo.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/mkoteli 
+- 🌐 Portfolio: [mkotelisimbo.vercel.app](https://mkotelisimbo.vercel.app)  
+- 💼 LinkedIn: [linkedin.com/in/mkoteli](https://www.linkedin.com/in/mkoteli)  
+- ✉️ Email: [mkotelisimbo@gmail.com](mailto:mkotelisimbo@gmail.com)
+
 ---
 
 ## ⚡ Fun Fact
