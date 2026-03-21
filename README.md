@@ -21,8 +21,7 @@
 
 ## 🚀 About Me
 - 💻 Junior Software Engineer with a background in IT support and digital design  
-- ⚛️ Focused on frontend development using React, JavaScript/TypeScript, HTML5, and CSS3  
-- 🔧 Experience building full-stack applications with Node.js and Express  
+- ⚛️ Focused on frontend development using React, JavaScript/TypeScript, HTML5, and CSS3    
 - 🧠 Interested in clean, maintainable code and real-world product development  
 - 🚀 Built projects like **AlumniConnect** in fast-paced, deadline-driven environments  
 - 🔄 Currently improving skills in state management, testing, and scalable frontend architecture  
