@@ -43,7 +43,7 @@
 ## 📂 Featured Projects
 
 ### 🔹 Survey App (Lifestyle Survey)
-**Enterprise-Grade Full-Stack Application** demonstrating React, Node.js, TypeScript, SOLID principles, and comprehensive testing.  
+Enterprise-grade full-stack application demonstrating React, Node.js, TypeScript, SOLID principles, and comprehensive testing.  
 
 - Full-stack: React + Node.js + Express + PostgreSQL  
 - Responsive, professional UI with a survey builder and analytics dashboard  
@@ -52,15 +52,28 @@
 - Live Demo: [Survey App](https://survey-app-beta-ivory.vercel.app)  
 - GitHub Repo: [Repo](https://github.com/simbongile-mkhotheli/survey-app)  
 
+**Screenshots:**  
+<p align="center">
+  <img src="https://via.placeholder.com/600x400?text=Survey+Form" alt="Survey Form Screenshot" width="300" />
+  <img src="https://via.placeholder.com/600x400?text=Analytics+Dashboard" alt="Survey Analytics Screenshot" width="300" />
+</p>
+
+---
+
 ### 🔹 AlumniConnect
-A web-based alumni engagement platform built as a solo hackathon project.  
+Web-based alumni engagement platform built as a solo hackathon project.  
 
 - Full-stack: React + Node.js  
 - Responsive UI and backend integration  
 - Delivered under tight deadlines  
 - Selected for continuation (GK Hack25)  
+- Private repo (code available upon request)  
 
-*(Private repo; code available upon request)*  
+**Screenshots:**  
+<p align="center">
+  <img src="https://via.placeholder.com/600x400?text=AlumniConnect+Home" alt="AlumniConnect Home Screenshot" width="300" />
+  <img src="https://via.placeholder.com/600x400?text=AlumniConnect+Dashboard" alt="AlumniConnect Dashboard Screenshot" width="300" />
+</p>
 
 ---
 
