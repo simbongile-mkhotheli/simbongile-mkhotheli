@@ -66,7 +66,6 @@ Web-based alumni engagement platform built as a solo hackathon project.
 - Full-stack: React + Node.js  
 - Responsive UI and backend integration  
 - Delivered under tight deadlines  
-- Selected for continuation (GK Hack25)  
 - Private repo (code available upon request)  
 
 **Screenshots:**  
