@@ -62,8 +62,7 @@ A web-based alumni engagement platform built as a solo hackathon project.
 
 ## 🔗 Connect With Me
 - 🌐 Portfolio: https://mkotelisimbo.vercel.app  
-- 💼 LinkedIn: (add your link here)  
-
+- 💼 LinkedIn: https://www.linkedin.com/in/mkoteli 
 ---
 
 ## ⚡ Fun Fact
