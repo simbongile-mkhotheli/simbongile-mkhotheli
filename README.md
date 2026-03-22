@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Junior Software Engineer with a background in IT support and digital design  
+- 💻 Junior Software Developer with a background in IT support and digital design  
 - ⚛️ Focused on frontend development using React, JavaScript/TypeScript, HTML5, and CSS3  
 - 🧠 Interested in clean, maintainable code and real-world product development  
 - 🔄 Currently improving skills in state management, testing, and scalable frontend architecture  
@@ -87,10 +87,9 @@ Web-based alumni engagement platform built as a solo hackathon project.
 ---
 
 ## 🎯 Current Focus
-- Building production-style frontend applications  
-- Improving UI/UX and responsive design  
-- Learning scalable frontend architecture  
-- Strengthening testing and best practices  
+- Writing maintainable, testable code with comprehensive unit and integration tests
+- Practicing collaborative workflows: Git, pull requests, code reviews, and CI/CD
+- Continuously improving problem-solving and debugging skills through real-world projects
 
 ---
 
