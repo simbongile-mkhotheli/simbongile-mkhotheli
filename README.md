@@ -20,12 +20,12 @@
 ---
 
 ## 🚀 About Me
-- 💻 Junior Software Developer with a background in IT support and digital design  
-- ⚛️ Focused on frontend development using React, JavaScript/TypeScript, HTML5, and CSS3  
-- 🧠 Interested in clean, maintainable code and real-world product development  
-- 🔄 Currently improving skills in state management, testing, and scalable frontend architecture  
+- 💻 Frontend Developer with experience in IT support and digital design 
+- ⚛️ Building responsive, user-centered web apps with React, JavaScript/TypeScript, HTML5, and CSS3  
+- 🧠 Focused on clean, maintainable code, reusable components, and real-world product delivery  
+- 🔄 Improving skills in state management, testing, and scalable frontend architecture 
 - 🤝 Learning collaborative workflows (Git, pull requests, code reviews)  
-- 🌍 Based in South Africa, open to junior roles, internships, and graduate programmes  
+- 🌍 Based in South Africa | Open to junior roles, internships, and graduate opportunities 
 
 ---
 
@@ -45,12 +45,13 @@
 ### 🔹 Survey App (Lifestyle Survey)
 Enterprise-grade full-stack application demonstrating React, Node.js, TypeScript, SOLID principles, and comprehensive testing.  
 
-- Full-stack: React + Node.js + Express + PostgreSQL  
-- Responsive, professional UI with a survey builder and analytics dashboard  
-- OWASP-compliant security and production-ready setup  
-- 336 unit tests (frontend + backend) with 95%+ coverage  
-- Live Demo: [Survey App](https://survey-app-beta-ivory.vercel.app)  
-- GitHub Repo: [Repo](https://github.com/simbongile-mkhotheli/survey-app)  
+- Tech Stack: React + Node.js + Express + PostgreSQL  
+- Features: Responsive survey builder, analytics dashboard, OWASP-compliant security
+- Quality: 336 unit tests (frontend + backend) with 95%+ coverage  
+- Delivery: Production-ready setup with professional UI
+- Links: Live Demo: [Survey App](https://survey-app-beta-ivory.vercel.app)  
+- GitHub Repo: [Repo](https://github.com/simbongile-mkhotheli/survey-app)
+  
 
 **Screenshots:**  
 <p align="center">
@@ -61,12 +62,12 @@ Enterprise-grade full-stack application demonstrating React, Node.js, TypeScript
 ---
 
 ### 🔹 AlumniConnect
-Web-based alumni engagement platform built as a solo hackathon project.  
+Web-based alumni engagement platform built as a solo hackathon project. 
 
-- Full-stack: React + Node.js  
-- Responsive UI and backend integration  
-- Delivered under tight deadlines  
-- Private repo (code available upon request)  
+- Tech Stack: React + Node.js 
+- Highlights: Responsive UI, backend integration, delivered under tight deadlines
+- Ownership: End-to-end development, showcasing rapid iteration and real-world delivery
+- Access: Private repo (available on request)  
 
 **Screenshots:**  
 <p align="center">
@@ -87,9 +88,9 @@ Web-based alumni engagement platform built as a solo hackathon project.
 ---
 
 ## 🎯 Current Focus
-- Writing maintainable, testable code with comprehensive unit and integration tests
+- Writing clean, maintainable, and testable code with unit and integration tests
 - Practicing collaborative workflows: Git, pull requests, code reviews, and CI/CD
-- Continuously improving problem-solving and debugging skills through real-world projects
+- Improving problem-solving and debugging skills through real-world projects
 
 ---
 
