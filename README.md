@@ -24,7 +24,7 @@
 - ⚛️ Building responsive, user-centered web apps with React, JavaScript/TypeScript, HTML5, and CSS3  
 - 🧠 Focused on clean, maintainable code, reusable components, and real-world product delivery  
 - 🔄 Improving skills in state management, testing, and scalable frontend architecture 
-- 🤝 Learning collaborative workflows (Git, pull requests, code reviews)  
+- 🤝 Practicing collaborative workflows: Git, pull requests, code reviews, and CI/CD
 - 🌍 Based in South Africa | Open to junior roles, internships, and graduate opportunities 
 
 ---
