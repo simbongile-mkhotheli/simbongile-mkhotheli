@@ -102,4 +102,4 @@ Web-based alumni engagement platform built as a solo hackathon project.
 ---
 
 ## ⚡ Fun Fact
-I enjoy turning real-world problems into practical web solutions and continuously improving through hands-on projects.
+I’m always learning, whether through coding or listening to podcasts to improve my mindset and leadership skills.
