@@ -5,7 +5,6 @@
 - 🔄 Continuously improving in state management, testing, and frontend system design
 - 🌍 Based in South Africa | Open to junior roles, internships, and graduate opportunities 
 
-now align frontend with backend & Database Nodejs express sql mongoDB 
 ---
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -13,9 +12,7 @@ now align frontend with backend & Database Nodejs express sql mongoDB
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ---
 
 | ⚙️ State Management | 🧪 Testing | 🎨 Styling | 🔧 Tools |
