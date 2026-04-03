@@ -35,6 +35,9 @@ Enterprise-grade full-stack application demonstrating React, Node.js, TypeScript
 <p align="center">
   <img src="https://via.placeholder.com/600x400?text=Survey+Form" alt="Survey Form Screenshot" width="300" />
   <img src="https://via.placeholder.com/600x400?text=Analytics+Dashboard" alt="Survey Analytics Screenshot" width="300" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/simbongile-mkhotheli/survey-app/main/survey-app.png" width="300" />
+</p>
 </p>
 
 ---
