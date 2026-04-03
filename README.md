@@ -23,7 +23,7 @@
 
 ## 🎯 Current Focus
 - Managing server and client state using React Query and Zustand
-- Writing reliable UI tests with Jest and React Testing Library
+- Writing reliable UI tests with Vitest and React Testing Library
 
 ---
 
