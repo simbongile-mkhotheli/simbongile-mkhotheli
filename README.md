@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
----
+------
 
 | ⚙️ State Management | 🧪 Testing |
 |-------------------|-----------|
