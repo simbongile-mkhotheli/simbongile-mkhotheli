@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 - 💻 Frontend Developer with experience in IT support and digital design 
-- ⚛️ Building responsive, user-centered web apps with React, JavaScript/TypeScript, HTML5, and CSS3  
+- ⚛️ Building responsive, user-centered web apps.  
 - 🧠 Focused on clean, maintainable code, reusable components, and real-world product delivery  
 - 🔄 Improving skills in state management, testing, and scalable frontend architecture 
 - 🤝 Practicing collaborative workflows: Git, pull requests, code reviews, and CI/CD
