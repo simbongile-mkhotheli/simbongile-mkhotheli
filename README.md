@@ -13,6 +13,8 @@ now align frontend with backend & Database Nodejs express sql mongoDB
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
+ ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+
 ---
 
 | ⚙️ State Management | 🧪 Testing | 🎨 Styling | 🔧 Tools |
