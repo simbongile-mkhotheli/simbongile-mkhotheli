@@ -3,7 +3,7 @@
 - ⚛️ Focused on creating scalable, reusable components and maintainable UI architecture 
 - 🧠 Emphasizing clean code, performance, and intuitive user experiences
 - 🔄 Continuously improving in state management, testing, and frontend system design
-- 🌍 Based in South Africa | Open to junior roles | internships
+- 🌍 Based in South Africa | Open to junior roles & internships
 
 ---
 ## 🛠️ Tech Stack
