@@ -35,4 +35,4 @@
 ---
 
 ## ⚡ Fun Fact
-I enjoy refactoring UI components to reduce complexity and improve reusability.
+I like building code step by step and understanding the reasoning behind every layer.
