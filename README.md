@@ -1,9 +1,9 @@
 ## 🚀 About Me
-- 💻 Frontend Developer specializing in building modern web applications with React and Nodejs 
-- ⚛️ Focused on creating scalable, reusable components and maintainable UI architecture 
-- 🧠 Emphasizing clean code, performance, and intuitive user experiences
-- 🔄 Continuously improving in state management, testing, and frontend system design
-- 🌍 Based in South Africa | Open to junior roles & internships
+- 💻 Frontend Developer focused on building React applications with clean architecture
+- ⚛️ Experience working with component-driven UI, state management patterns, and service-layer abstraction 
+- 🧠 Currently building projects with emphasis on scalable frontend structure and refactoring toward API-ready design
+- 🔄 Continuously improving in frontend system design, code organization, and testing fundamentals
+- 🌍 Based in South Africa | Open to junior roles and internships
 
 ---
 ## 🛠️ Tech Stack
@@ -35,4 +35,4 @@
 ---
 
 ## ⚡ Fun Fact
-I like building code step by step and understanding the reasoning behind every layer.
+I enjoy building software step by step, focusing on understanding how each layer connects, from UI to data flow and persistence.
