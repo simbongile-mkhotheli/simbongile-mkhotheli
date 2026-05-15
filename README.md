@@ -22,8 +22,8 @@
 ---
 
 ## 🎯 Current Focus
-- Managing server and client state using React Query and Zustand
-- Writing reliable UI tests with Vitest and React Testing Library
+- Designing scalable frontend architecture with React, API integration, and maintainable state management
+- Strengthening testing practices, code organization, and real-world collaboration workflows
 
 ---
 
