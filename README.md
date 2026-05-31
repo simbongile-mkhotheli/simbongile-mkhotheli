@@ -1,7 +1,7 @@
 ## 🚀 About Me
 - 💻 Frontend Developer focused on building React applications with clean architecture
 - ⚛️ Experience working with component-driven UI, state management patterns, and service-layer abstraction 
-- 🧠 Currently building projects with emphasis on scalable frontend structure and refactoring toward API-ready design
+- 🧠 Currently building React projects with a focus on scalable frontend architecture, API integration, and maintainable code
 - 🔄 Continuously improving in frontend system design, code organization, and testing fundamentals
 - 🌍 Based in South Africa | Open to junior roles and internships
 
@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 🎯 Current Focus
 - Designing scalable frontend architecture with React, API integration, and maintainable state management
-- Strengthening testing practices, code organization, and real-world collaboration workflows
+- Strengthening testing practices, code quality, and collaborative development workflows
 
 ---
 
