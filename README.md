@@ -15,8 +15,8 @@
 
 ---
 
-| ⚙️ State Management | 🧪 Testing | 🎨 Styling | 🔧 Tools |
-|-----------------|-----------|-----------|-----------|
+| 🧪 Testing | 🎨 Styling | 🔧 Tools |
+|-----------|-----------|-----------|
 | ![Vitest](https://img.shields.io/badge/Vitest-646CFF?style=for-the-badge&logo=vitest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   |![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  <br> |
 
 ---
