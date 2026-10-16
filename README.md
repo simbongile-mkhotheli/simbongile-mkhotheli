@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-- 💻 Junior Frontend Developer focused on building React and Next.js applications with clean, maintainable architecture
+- 💻 Software Developer focused on building React and Next.js applications with clean, maintainable architecture
 - ⚛️ Experience with component-driven UI, responsive layouts, state management patterns, and service-layer abstraction
 - 🔐 Building projects with Supabase Auth, protected routes, API integration, and user-specific data flows
 - 🧪 Improving in testing, accessibility, CI/CD, code quality, and collaborative GitHub workflows
